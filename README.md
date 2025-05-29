@@ -73,3 +73,5 @@ python main.py --help                       # Показать справку
 python main.py https://example.com/long-url #Сократить ссылку
 python main.py https://vk.cc/abc123         # Просмотреть статистику по сокращенной ссылке
 ```
+
+![Снимок экрана 2025-05-29 112204](https://github.com/user-attachments/assets/3139bba3-b736-491a-aebb-1b2d6b9448ca)
